@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning Front-end development with ReactJs and NodeJs
 - 👯 I’m looking for Internships and Freelancing
 - 📫 How to reach me: bkrishna.gtm@gmail.com
-- 😄 Pronouns: He/Him
