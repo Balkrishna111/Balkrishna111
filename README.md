@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile! 👋
 
-## About Me
+# About Me
 💻 Current Focus: Building innovative web applications</br>
 📚 Skills: JavaScript, React.js, TypeScript, HTML, CSS</br>
 🌱 Learning Path: Exploring advanced concepts in Front-end Web Development</br>
