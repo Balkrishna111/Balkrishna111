@@ -3,9 +3,9 @@
 # About Me
 💻 Current Focus: Building innovative web applications</br>
 📚 Skills: JavaScript, React.js, TypeScript, HTML, CSS</br>
-🌱 Learning Path: Exploring advanced concepts in Front-end Web Development</br>
-🌟 Interests: Open Source, UI/UX Design</br>
-🔍 Looking For: Internships, Freelance projects, and Collaborative opportunities</br>
+🌱 Learning Path: Exploring advanced concepts in Web Development</br>
+🌟 Interests: Open Source, Databases</br>
+🔍 Looking For: Freelance projects, and Collaborative opportunities</br>
 🤝 Open to working on exciting projects and contributing to the community</br>
 
 ## Get in Touch
