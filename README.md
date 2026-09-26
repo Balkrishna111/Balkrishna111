@@ -7,6 +7,6 @@
 🌟 Interests: Open Source, Web Development, Databases, AI, ML</br>
 
 ## Get in Touch
-📧 Email: bkrishna.gtm@gmail.com</br>
+📧 Email: connectwithbalkrishna@gmail.com</br>
 💼 LinkedIn: https://www.linkedin.com/in/bkrishna1/</br>
 
